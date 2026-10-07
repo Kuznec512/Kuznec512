@@ -48,5 +48,5 @@
 
 ### 📫 Как со мной связаться:
 
-- **Telegram:** [@твой_ник_в_тг](https://t.me/твой_ник_в_тг)
+- **Telegram:** (https://t.me/Mister_Petrovich)
 - **Email:** [bagdan.kuznichenko@yandex.ru](mailto:bagdan.kuznichenko@yandex.ru)
